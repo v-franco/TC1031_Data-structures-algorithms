@@ -3,4 +3,4 @@ C++ programs and header files with code related to data structures and fundament
 
 # Authors
 
-by @v-franco and @ElMike1712
+By @v-franco & @ElMike1712
