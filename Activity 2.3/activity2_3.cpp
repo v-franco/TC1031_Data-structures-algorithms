@@ -6,7 +6,7 @@
 
 using namespace std;
 
-//Node class delastes Node for linked list
+//Node class defines Node for linked list
 class Node{
 public:
     string info;
